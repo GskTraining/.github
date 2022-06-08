@@ -1,6 +1,6 @@
 ## Hi there We are IBM Trainees👋
 
-🙋‍♀️ A short introduction - We are practicing with github during training this is  a practice organization
+🙋‍♀️ A short introduction - We are practicing with github during training . This is  a practice organization
 
 🌈 Contribution guidelines - None
 
